@@ -1,6 +1,6 @@
 # bubble-sort
 
-contoh Program yang telah saya buat.
+contoh Program bubblesort yang telah saya buat.
 
 NAMA : SITI AYUNI 
 
